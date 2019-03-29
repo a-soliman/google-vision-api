@@ -1,0 +1,13 @@
+.DS_Store
+__pycache__/
+**/*.pyc
+*.pyc
+node_modules/
+venv/
+.vscode/
+/node_modules
+public/dist/
+package-lock.json
+.env.test
+.env.development
+client_secrets.json
